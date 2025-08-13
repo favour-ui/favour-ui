@@ -81,11 +81,14 @@ I thrive on continuous learning — from mastering advanced Python scripts for d
 - **Engineering Support**: CNC operation optimization, technical design in FreeCAD.
 - **Teaching:** I can teach Mathematics, Physics, Further-mathematics at the Secondary level.
 
+I’m looking forward to collaborating on projects in my areas of expertise — while staying open to exploring new domains. Together, we can build impactful solutions. Let’s connect! 🌍
+
 ## Connect with Me 📫
 
 🔗 [**LinkedIn**](https://www.linkedin.com/in/favouradetunji)  
 📧 [**Email**](mailto:adetunjifavourtech2020@gmail.com)  
 💬 [**WhatsApp Business**](https://wa.me/2347054031547?text=Hi%20Favour%2C%20I%27m%20interested%20in%20your%20data%20analysis%20work)
 
-
+## 🎯 Fun Fact
+When I’m not analyzing data, I’m exploring academics works — merging my passion for engineering and business.
 
