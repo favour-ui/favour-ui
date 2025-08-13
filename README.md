@@ -73,3 +73,7 @@ I thrive on continuous learning — from mastering advanced Python scripts for d
     - WhatsApp Groups for Student
     - Zoom & Microsoft Teams
 
+## 📚 Data Analytics Projects
+- **SQL Projects**: Analysis using MySQL for manufacturing and operational datasets.
+- **Power BI Dashboards**: Interactive dashboards tracking KPIs and identifying trends.
+- **Excel Data Analysis**: Sales trend analysis, manufacturing defect tracking, and reporting.
