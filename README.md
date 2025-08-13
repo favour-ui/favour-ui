@@ -66,7 +66,7 @@ I thrive on continuous learning — from mastering advanced Python scripts for d
 
 ## 📚 Data Analytics Projects
 - [**SQL Projects**](): This repository is for all project done on Mysql.
-- [**Power BI Dashboards**](): This repository is for all project done on PowerBi(Interactive dashboards tracking KPIs and identifying trends).
+- [**Power BI Dashboards**](https://github.com/favour-ui/Walmart-Sale-Analysis): This repository is for all project done on PowerBi(Interactive dashboards tracking KPIs and identifying trends).
 - [**Excel Data Analysis**](): This repository is for all project done on Excel(Sales trend analysis, manufacturing defect tracking, and reporting).
 
 ## 🎯 Professional Goals
