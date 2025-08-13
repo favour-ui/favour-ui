@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Adetunji Favour, and I'm a Data Analyst from Nigeria</h2>
 
-Data Analyst | Engineer | Educator | Turning Data Into Actionable Insights
+Data Analyst | Engineering Student  | Educator | Turning Data Into Actionable Insights
 
 ###
 
