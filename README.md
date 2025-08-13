@@ -2,22 +2,12 @@
 
 Data Analyst | Engineering Student  | Educator | Turning Data Into Actionable Insights
 
-
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/favouradetunji" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=connect&logo=linkedin&label=LinkedIn&color=5A6783&logoColor=white&labelColor=0077B5&style=flat" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:adetunjifavourtech2020@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Gmail&color=5A6783&logoColor=white&labelColor=D14836&style=flat" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.link/t164of" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=contact&logo=whatsapp&label=Whatsapp&color=5A6783&logoColor=white&labelColor=25D366&style=flat" height="25" alt="whatsapp  logo"  />
-  </a>
-</div>
+ <div align="left"> <a href="https://www.linkedin.com/in/favouradetunji" target="_blank"> <img src="https://img.shields.io/static/v1?message=connect&logo=linkedin&label=LinkedIn&color=5A6783&logoColor=white&labelColor=0077B5&style=flat" height="25" alt="linkedin logo" /> </a> <a href="mailto:adetunjifavourtech2020@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Gmail&color=5A6783&logoColor=white&labelColor=D14836&style=flat" height="25" alt="gmail logo" /> </a> <a href="https://wa.link/t164of" target="_blank"> <img src="https://img.shields.io/static/v1?message=contact&logo=whatsapp&label=Whatsapp&color=5A6783&logoColor=white&labelColor=25D366&style=flat" height="25" alt="whatsapp logo" /> </a> </div> 
 
-###
+ ###
+
 ## 🎯 Mission
 Empower individuals and organizations through data-driven solutions, lifelong learning, and purposeful action.  
 I aim to bridge the gap between **engineering precision** and **data analytics insight**, helping people and businesses make smarter decisions.  
@@ -91,9 +81,11 @@ I thrive on continuous learning — from mastering advanced Python scripts for d
 - **Engineering Support**: CNC operation optimization, technical design in FreeCAD.
 - **Teaching:** I can teach Mathematics, Physics, Further-mathematics at the Secondary level.
 
-## 📫 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/favouradetunji)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:YOUR-adetunjifavourtech2020@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp%20Business-25D366?logo=whatsapp&logoColor=white&style=flat)](https://wa.me/7054031547?text=Hi%20Favour%2C%20I%27m%20interested%20in%20your%20data%20analysis%20work)
+## Connect with Me 📫
+
+🔗 [**LinkedIn**](https://www.linkedin.com/in/favouradetunji)  
+📧 [**Email**](mailto:adetunjifavourtech2020@gmail.com)  
+💬 [**WhatsApp Business**](https://wa.me/2347054031547?text=Hi%20Favour%2C%20I%27m%20interested%20in%20your%20data%20analysis%20work)
+
 
 
