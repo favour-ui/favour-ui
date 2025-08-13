@@ -40,32 +40,32 @@ I thrive on continuous learning — from mastering advanced Python scripts for d
   - Data Validation
   - Microsoft Excel (Pivot Tables, VLOOKUP, IF formulas)
 
-- Business Intelligence & Data Visualization:   
+- **Business Intelligence & Data Visualization:**   
   - Power BI
   - Excel
   - Canva
   - Data Storytelling
   - Dashboard Development
 
-- Engineering & Technical Skills:
+- **Engineering & Technical Skills:**
   - FreeCAD
   - Lathe CNC stimulation
   - Milling CNC stimulation 
   - Technical Drawings & 3D Modelling
   - Manufacturing Process Analysis
 
-- Productivity & Collaboration Tools:
+- **Productivity & Collaboration Tools:**
   - Microsoft Word
   - Microsoft Excel
   - Notion
   - Powerpoint
   - Wordpress
   
-- Teaching & Coaching:
+- **Teaching & Coaching:**
   - Primary & Secondary School Education (3 years)
   - Lesson Planning & Classroom Management
 
-- Teaching Tools:
+- **Teaching Tools:**
     - Chalkboard & Whiteboard
     - Marker Pens & Chalk
     - Charts & Wall Posters
@@ -77,3 +77,6 @@ I thrive on continuous learning — from mastering advanced Python scripts for d
 - **SQL Projects**: Analysis using MySQL for manufacturing and operational datasets.
 - **Power BI Dashboards**: Interactive dashboards tracking KPIs and identifying trends.
 - **Excel Data Analysis**: Sales trend analysis, manufacturing defect tracking, and reporting.
+
+
+
