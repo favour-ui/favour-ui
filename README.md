@@ -59,9 +59,17 @@ I thrive on continuous learning — from mastering advanced Python scripts for d
   - Microsoft Excel
   - Notion
   - Powerpoint
-  - 
+  - Wordpress
+  
 - Teaching & Coaching:
   - Primary & Secondary School Education (3 years)
   - Lesson Planning & Classroom Management
-  
+
+- Teaching Tools:
+    - Chalkboard & Whiteboard
+    - Marker Pens & Chalk
+    - Charts & Wall Posters
+    - Projector & Slides
+    - WhatsApp Groups for Student
+    - Zoom & Microsoft Teams
 
