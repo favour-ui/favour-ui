@@ -13,7 +13,7 @@ Data Analyst | Engineering Student  | Educator | Turning Data Into Actionable In
     <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Gmail&color=5A6783&logoColor=white&labelColor=D14836&style=flat" height="25" alt="gmail logo"  />
   </a>
   <a href="https://wa.link/t164of" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=contact&logo=whatsapp&label=Whatsapp&color=5A6783&logoColor=white&labelColor=25D366&style=flat" height="25" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=contact&logo=whatsapp&label=Whatsapp&color=5A6783&logoColor=white&labelColor=25D366&style=flat" height="25" alt="whatsapp  logo"  />
   </a>
 </div>
 
