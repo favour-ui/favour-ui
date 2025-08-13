@@ -65,9 +65,9 @@ I thrive on continuous learning — from mastering advanced Python scripts for d
     - Zoom & Microsoft Teams
 
 ## 📚 Data Analytics Projects
-- **SQL Projects**: Analysis using MySQL for manufacturing and operational datasets.
-- **Power BI Dashboards**: Interactive dashboards tracking KPIs and identifying trends.
-- **Excel Data Analysis**: Sales trend analysis, manufacturing defect tracking, and reporting.
+- [**SQL Projects**](): This repository is for all project done on Mysql.
+- [**Power BI Dashboards**](): This repository is for all project done on PowerBi(Interactive dashboards tracking KPIs and identifying trends).
+- [**Excel Data Analysis**](): This repository is for all project done on Excel(Sales trend analysis, manufacturing defect tracking, and reporting).
 
 ## 🎯 Professional Goals
 - Use data analytics to solve **manufacturing**, **business**, and **education** challenges.
