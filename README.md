@@ -5,7 +5,7 @@ Data Analyst | Engineer | Educator | Turning Data Into Actionable Insights
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/favouradetunji" target="_blank">
+  <a href="https://www.linkedin.com/in/favouradetunji" target="_blank">
     <img src="https://img.shields.io/static/v1?message=connect&logo=linkedin&label=LinkedIn&color=5A6783&logoColor=white&labelColor=0077B5&style=plastic" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:adetunjifavourtech2020@gmail.com" target="_blank">
