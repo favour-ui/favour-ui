@@ -22,3 +22,46 @@ Empower individuals and organizations through data-driven solutions, lifelong le
 I aim to bridge the gap between **engineering precision** and **data analytics insight**, helping people and businesses make smarter decisions.  
 Through resilience, creativity, and technical expertise, I strive to leave a legacy of **growth, opportunity, and impact**.
 
+## 👩‍💻 About Me
+I’m a **data analyst** with an **engineering background** and 3 years of teaching experience at both **primary and secondary levels**.  
+I specialize in uncovering trends, solving problems, and creating compelling data visualizations that drive change.  
+
+With hands-on experience in **SQL, Power BI, Excel**, and **engineering tools**, I bring a unique blend of technical and analytical skills.  
+My journey spans **manufacturing, CNC machining stimulation tools, education, and data analysis**, which gives me a broad perspective when approaching real-world problems.
+
+I thrive on continuous learning — from mastering advanced Python scripts for data analysis to designing in FreeCAD and optimizing CNC operations on stimulation tools.
+
+## 🛠 Core Skills
+
+- Data Analysis: 
+  - MySQL
+  - Descriptive Statistics
+  - Data Cleaning & Transformation
+  - Data Validation
+  - Microsoft Excel (Pivot Tables, VLOOKUP, IF formulas)
+
+- Business Intelligence & Data Visualization:   
+  - Power BI
+  - Excel
+  - Canva
+  - Data Storytelling
+  - Dashboard Development
+
+- Engineering & Technical Skills:
+  - FreeCAD
+  - Lathe CNC stimulation
+  - Milling CNC stimulation 
+  - Technical Drawings & 3D Modelling
+  - Manufacturing Process Analysis
+
+- Productivity & Collaboration Tools:
+  - Microsoft Word
+  - Microsoft Excel
+  - Notion
+  - Powerpoint
+  - 
+- Teaching & Coaching:
+  - Primary & Secondary School Education (3 years)
+  - Lesson Planning & Classroom Management
+  
+
